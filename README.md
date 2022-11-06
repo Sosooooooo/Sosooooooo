@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sosooooooo
+- 👋 Hi, I’m Yassine ARAHAL
 - 👀 I’m interested in cyber security and web development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on making the things secure
